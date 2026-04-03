@@ -1,43 +1,12 @@
 更新时间,#genre#
-2026-04-03 08:52:47,url
+2026-04-03 16:40:10,url
 央视频道,#genre#:
-CCTV1,http://113.223.213.93:9000/udp/239.76.246.151:1234
-CCTV9,http://113.223.213.93:9000/udp/239.76.246.159:1234
-CCTV14,http://113.223.213.93:9000/udp/239.76.252.64:9000
-CCTV15,http://113.223.213.93:9000/udp/239.76.252.65:9000
-CCTV16,http://113.223.213.93:9000/udp/239.76.253.214:9000
-CCTV16,http://113.223.213.93:9000/udp/239.76.246.230:1234
 
 卫视频道,#genre#:
-CHC动作电影,http://113.223.213.93:9000/udp/239.76.245.243:1234
-宁夏卫视,http://113.223.213.93:9000/udp/239.76.245.107:1234
-山东卫视,http://113.223.213.93:9000/udp/239.76.253.195:9000
-河北卫视,http://113.223.213.93:9000/udp/239.76.252.102:9000
-浙江卫视,http://113.223.213.93:9000/udp/239.76.253.182:9000
-辽宁卫视,http://113.223.213.93:9000/udp/239.76.252.89:9000
 
 湖南频道,#genre#:
-娄底综合,http://113.223.213.93:9000/udp/239.76.255.18:9000
-新田综合,http://113.223.213.93:9000/udp/239.76.255.30:9000
-永州公共,http://113.223.213.93:9000/udp/239.76.255.24:9000
-浏阳新闻,http://113.223.213.93:9000/udp/239.76.248.6:1234
-湖南娱乐,http://113.223.213.93:9000/udp/239.76.253.105:9000
-湖南电影,http://113.223.213.93:9000/udp/239.76.252.119:9000
-湖南都市,http://113.223.213.93:9000/udp/239.76.252.117:9000
-湘西公共频道,http://113.223.213.93:9000/udp/239.76.245.209:1234
-蓝山综合,http://113.223.213.93:9000/udp/239.76.248.38:1234
-衡阳综合,http://113.223.213.93:9000/udp/239.76.248.13:1234
-金鹰卡通,http://113.223.213.93:9000/udp/239.76.245.120:1234
-金鹰卡通,http://113.223.213.93:9000/udp/239.76.253.107:9000
-长沙政法,http://113.223.213.93:9000/udp/239.76.253.122:9000
 
 其他频道,#genre#:
-北京卡酷少儿,http://113.223.213.93:9000/udp/239.76.252.111:9000
-国学频道,http://113.223.213.93:9000/udp/239.76.254.48:9000
-快乐垂钓,http://113.223.213.93:9000/udp/239.76.246.5:1234
-新动漫,http://113.223.213.93:9000/udp/239.76.245.244:1234
-未知新闻综合,http://113.223.213.93:9000/udp/239.76.248.27:1234
-武术世界,http://113.223.213.93:9000/udp/239.76.245.181:1234
 
 
 <html>
@@ -45,7 +14,7 @@ CHC动作电影,http://113.223.213.93:9000/udp/239.76.245.243:1234
 <title>aktv.top</title>
 <script type="text/javascript" src="/js/fingerprint/iife.min.js"></script>
 <script type="text/javascript">
-var redirect_link = 'http://aktv.top/live.txt?tr_uuid=20260403-1952-477f-be7a-3e10e153874d&';
+var redirect_link = 'http://aktv.top/live.txt?tr_uuid=20260404-0340-10a4-9252-bfee24bd9a8c&';
 let redirected = false;
 
 function redirect(suffix) {
@@ -71,8 +40,8 @@ try {
 <style> body { background:#101c36 } </style>
 </head>
 <body bgcolor="#ffffff" text="#000000">
-<div style='display: none;'><a href='http://aktv.top/live.txt?tr_uuid=20260403-1952-477f-be7a-3e10e153874d&fp=-3'>Click here to enter</a></div>
-<noscript><meta http-equiv="refresh" content="0; URL=http://aktv.top/live.txt?tr_uuid=20260403-1952-477f-be7a-3e10e153874d&fp=-5"></noscript>
+<div style='display: none;'><a href='http://aktv.top/live.txt?tr_uuid=20260404-0340-10a4-9252-bfee24bd9a8c&fp=-3'>Click here to enter</a></div>
+<noscript><meta http-equiv="refresh" content="0; URL=http://aktv.top/live.txt?tr_uuid=20260404-0340-10a4-9252-bfee24bd9a8c&fp=-5"></noscript>
 </body>
 </html>
 湖南移动,#genre#
