@@ -1,14 +1,44 @@
 更新时间,#genre#
-2026-04-13 17:07:57,url
+2026-04-14 01:43:42,url
 央视频道,#genre#:
+CCTV2,http://118.251.60.88:8888/udp/239.76.246.152:1234
 CCTV3,http://118.251.60.88:8888/udp/239.76.253.153:9000
-CCTV6,http://118.251.60.88:8888/udp/239.76.253.156:9000
+CCTV4K,http://118.251.60.88:8888/udp/239.76.254.101:9000
+CCTV7,http://118.251.60.88:8888/udp/239.76.253.157:9000
+CCTV12,http://118.251.60.88:8888/udp/239.76.246.162:1234
+CCTV14,http://118.251.60.88:8888/udp/239.76.252.64:9000
+CCTV16,http://118.251.60.88:8888/udp/239.76.253.230:9000
+CCTV央视台球,http://118.251.60.88:8888/udp/239.76.254.58:9000
+CCTV电视指南,http://118.251.60.88:8888/udp/239.76.254.61:9000
 
 卫视频道,#genre#:
+内蒙古卫视,http://118.251.60.88:8888/udp/239.76.245.106:1234
+安徽卫视,http://118.251.60.88:8888/udp/239.76.252.196:9000
+新疆卫视,http://118.251.60.88:8888/udp/239.76.245.109:1234
+河南卫视,http://118.251.60.88:8888/udp/239.76.252.99:9000
+海南卫视,http://118.251.60.88:8888/udp/239.76.253.203:9000
 
 湖南频道,#genre#:
+岳阳新闻综合,http://118.251.60.88:8888/udp/239.76.248.7:1234
+岳麓综合,http://118.251.60.88:8888/udp/239.76.255.47:9000
+张家界综合,http://118.251.60.88:8888/udp/239.76.252.234:9000
+张家界综合,http://118.251.60.88:8888/udp/239.76.245.234:1234
+桃源综合频道,http://118.251.60.88:8888/udp/239.76.248.36:1234
+湖南娱乐,http://118.251.60.88:8888/udp/239.76.252.121:9000
+湘西综合,http://118.251.60.88:8888/udp/239.76.245.208:1234
+溆浦综合,http://118.251.60.88:8888/udp/239.76.255.40:9000
+衡阳公共频道,http://118.251.60.88:8888/udp/239.76.248.14:1234
+道县综合,http://118.251.60.88:8888/udp/239.76.255.28:9000
+郴州公共都市,http://118.251.60.88:8888/udp/239.76.248.39:1234
+金鹰纪实,http://118.251.60.88:8888/udp/239.76.245.122:1234
 
 其他频道,#genre#:
+CGTN西班牙语,http://118.251.60.88:8888/udp/239.76.246.88:1234
+东方财经,http://118.251.60.88:8888/udp/239.76.254.69:9000
+九画面,http://118.251.60.88:8888/udp/239.76.245.131:1234
+国学频道,http://118.251.60.88:8888/udp/239.76.254.48:9000
+新动漫,http://118.251.60.88:8888/udp/239.76.245.244:1234
+环球奇观,http://118.251.60.88:8888/udp/239.76.254.26:9000
 
 
 <html>
@@ -16,7 +46,7 @@ CCTV6,http://118.251.60.88:8888/udp/239.76.253.156:9000
 <title>aktv.top</title>
 <script type="text/javascript" src="/js/fingerprint/iife.min.js"></script>
 <script type="text/javascript">
-var redirect_link = 'http://aktv.top/live.txt?tr_uuid=20260414-0307-57f3-966e-45ffb4e372e4&';
+var redirect_link = 'http://aktv.top/live.txt?tr_uuid=20260414-1143-43ff-83df-3539e6502916&';
 let redirected = false;
 
 function redirect(suffix) {
@@ -42,8 +72,8 @@ try {
 <style> body { background:#101c36 } </style>
 </head>
 <body bgcolor="#ffffff" text="#000000">
-<div style='display: none;'><a href='http://aktv.top/live.txt?tr_uuid=20260414-0307-57f3-966e-45ffb4e372e4&fp=-3'>Click here to enter</a></div>
-<noscript><meta http-equiv="refresh" content="0; URL=http://aktv.top/live.txt?tr_uuid=20260414-0307-57f3-966e-45ffb4e372e4&fp=-5"></noscript>
+<div style='display: none;'><a href='http://aktv.top/live.txt?tr_uuid=20260414-1143-43ff-83df-3539e6502916&fp=-3'>Click here to enter</a></div>
+<noscript><meta http-equiv="refresh" content="0; URL=http://aktv.top/live.txt?tr_uuid=20260414-1143-43ff-83df-3539e6502916&fp=-5"></noscript>
 </body>
 </html>
 湖南移动,#genre#
