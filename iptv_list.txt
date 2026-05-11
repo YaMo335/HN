@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-05-11 11:02:41,url
+2026-05-11 17:58:44,url
 央视频道,#genre#:
 
 卫视频道,#genre#:
@@ -14,7 +14,7 @@
 <title>aktv.top</title>
 <script type="text/javascript" src="/js/fingerprint/iife.min.js"></script>
 <script type="text/javascript">
-var redirect_link = 'http://aktv.top/live.txt?tr_uuid=20260511-2102-41a3-8577-b534a67251f9&';
+var redirect_link = 'http://aktv.top/live.txt?tr_uuid=20260512-0358-4471-a752-114d26a2c1e7&';
 let redirected = false;
 
 function redirect(suffix) {
@@ -40,8 +40,8 @@ try {
 <style> body { background:#101c36 } </style>
 </head>
 <body bgcolor="#ffffff" text="#000000">
-<div style='display: none;'><a href='http://aktv.top/live.txt?tr_uuid=20260511-2102-41a3-8577-b534a67251f9&fp=-3'>Click here to enter</a></div>
-<noscript><meta http-equiv="refresh" content="0; URL=http://aktv.top/live.txt?tr_uuid=20260511-2102-41a3-8577-b534a67251f9&fp=-5"></noscript>
+<div style='display: none;'><a href='http://aktv.top/live.txt?tr_uuid=20260512-0358-4471-a752-114d26a2c1e7&fp=-3'>Click here to enter</a></div>
+<noscript><meta http-equiv="refresh" content="0; URL=http://aktv.top/live.txt?tr_uuid=20260512-0358-4471-a752-114d26a2c1e7&fp=-5"></noscript>
 </body>
 </html>
 湖南移动,#genre#
