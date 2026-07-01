@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-07-01 02:44:44,url
+2026-07-01 11:26:53,url
 央视频道,#genre#:
 
 卫视频道,#genre#:
@@ -9,6 +9,17 @@
 其他频道,#genre#:
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>aktv.top</title>
+<script async src="https://assets.abovedomains.com/javascript/forsale.min.js?d=aktv.top"></script>
+<style>body{background:#101c36;color:#fff}h1{text-align:center;margin-top:1rem}</style>
+</head>
+<body>
+<h1>aktv.top</h1>
+</body>
+</html>
 
 湖南移动,#genre#
 湖南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000193885/main.m3u8?stbid=
